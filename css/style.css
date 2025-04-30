@@ -24,7 +24,16 @@
     color: #57110a;
 }
 
+.c-alert{
+    background-color: #8b4139;
+    color: #fff;
+}
+
 .nav-cor{
     background-color: #8b3329;
 
+}
+
+.img-tamanho{
+    width: 30px;
 }
